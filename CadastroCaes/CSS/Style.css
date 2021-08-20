@@ -1,0 +1,21 @@
+﻿body {
+    background: rgb(11,11,11);
+    background: linear-gradient(90deg, rgba(11,11,11,1) 0%, rgba(245,239,239,1) 100%);
+}
+#divCadastro {
+    width: 500px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 6px 7px 53px rgba(0, 0, 0, 0.7);
+    padding:30px;
+    padding-top:50px;
+}
+#imgLogo {
+    width: 120px;
+    height: 120px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+}
